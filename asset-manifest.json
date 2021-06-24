@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/MLemke24/Matt-Lemke-Portfolio/static/css/main.980b6efa.chunk.css",
+    "main.js": "/MLemke24/Matt-Lemke-Portfolio/static/js/main.84908440.chunk.js",
+    "main.js.map": "/MLemke24/Matt-Lemke-Portfolio/static/js/main.84908440.chunk.js.map",
+    "runtime-main.js": "/MLemke24/Matt-Lemke-Portfolio/static/js/runtime-main.348f7a29.js",
+    "runtime-main.js.map": "/MLemke24/Matt-Lemke-Portfolio/static/js/runtime-main.348f7a29.js.map",
+    "static/js/2.b403ff9b.chunk.js": "/MLemke24/Matt-Lemke-Portfolio/static/js/2.b403ff9b.chunk.js",
+    "static/js/2.b403ff9b.chunk.js.map": "/MLemke24/Matt-Lemke-Portfolio/static/js/2.b403ff9b.chunk.js.map",
+    "static/js/3.4d20244a.chunk.js": "/MLemke24/Matt-Lemke-Portfolio/static/js/3.4d20244a.chunk.js",
+    "static/js/3.4d20244a.chunk.js.map": "/MLemke24/Matt-Lemke-Portfolio/static/js/3.4d20244a.chunk.js.map",
+    "index.html": "/MLemke24/Matt-Lemke-Portfolio/index.html",
+    "static/css/main.980b6efa.chunk.css.map": "/MLemke24/Matt-Lemke-Portfolio/static/css/main.980b6efa.chunk.css.map",
+    "static/js/2.b403ff9b.chunk.js.LICENSE.txt": "/MLemke24/Matt-Lemke-Portfolio/static/js/2.b403ff9b.chunk.js.LICENSE.txt",
+    "static/media/0.jpg": "/MLemke24/Matt-Lemke-Portfolio/static/media/0.c7e82f7b.jpg",
+    "static/media/profile.fe29c41b.jpeg": "/MLemke24/Matt-Lemke-Portfolio/static/media/profile.fe29c41b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348f7a29.js",
+    "static/js/2.b403ff9b.chunk.js",
+    "static/css/main.980b6efa.chunk.css",
+    "static/js/main.84908440.chunk.js"
+  ]
+}
